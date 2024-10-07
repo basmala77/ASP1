@@ -1,0 +1,14 @@
+D:\EF task\Builder\Builder\bin\Debug\net8.0\Builder.exe
+D:\EF task\Builder\Builder\bin\Debug\net8.0\Builder.deps.json
+D:\EF task\Builder\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+D:\EF task\Builder\Builder\bin\Debug\net8.0\Builder.dll
+D:\EF task\Builder\Builder\bin\Debug\net8.0\Builder.pdb
+D:\EF task\Builder\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\EF task\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+D:\EF task\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+D:\EF task\Builder\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+D:\EF task\Builder\Builder\obj\Debug\net8.0\Builder.dll
+D:\EF task\Builder\Builder\obj\Debug\net8.0\refint\Builder.dll
+D:\EF task\Builder\Builder\obj\Debug\net8.0\Builder.pdb
+D:\EF task\Builder\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+D:\EF task\Builder\Builder\obj\Debug\net8.0\ref\Builder.dll
